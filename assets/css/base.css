@@ -1,0 +1,22 @@
+:root {
+    --white-color: #fff;
+    --black-color: #000;
+    --text-color: #333;
+    --link-color: #1367a7;
+    --hover-color: #208799;
+
+    --font-size-heading: 4rem;
+    --font-size-nor: 2rem;
+    --font-size-desc: 1.2rem;
+}
+
+*{
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%; /* 1rem = 10px */
+    line-height: 1.6rem;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    box-sizing: border-box;
+}
